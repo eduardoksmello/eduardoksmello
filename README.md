@@ -1,16 +1,26 @@
 ### Hi there 👋
 
+:monocle_face: I’m interested in **Data Science**.
+
+🌱 I’m currently learning all about **Machine Learning** techniques.
+
+:globe_with_meridians: Social media: https://www.linkedin.com/in/eduardo-k-s-mello/
+
+:space_invader:	Pronouns: He/Him
 <!--
 **eduardoksmello/eduardoksmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning all about Machine Learning techniques.
+- ![image](https://user-images.githubusercontent.com/76400281/137038838-9b7ed84b-3822-4057-bcc0-87ad7aa47473.png) I’m interested in **Data Science**.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+![image](https://www.dropbox.com/s/p1qbe4i7jiwg25u/banner.png)
+
 -->
