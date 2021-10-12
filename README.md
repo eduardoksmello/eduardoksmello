@@ -1,12 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+### My names is Eduardo.
 
 :monocle_face: I’m interested in **Data Science**.
 
 🌱 I’m currently learning all about **Machine Learning** techniques.
 
-:globe_with_meridians: Social media: https://www.linkedin.com/in/eduardo-k-s-mello/
+:globe_with_meridians: Find me: https://www.linkedin.com/in/eduardo-k-s-mello/
 
 :space_invader:	Pronouns: He/Him
+
+:computer: Most familiar tools, languages and frameworks:
+- Python
+- Pandas, Numpy, Scipy
+- Scikit-Learn, Statsmodels
+- Matplotlib, Ploty, Seaborn
+- Power BI
+
 <!--
 **eduardoksmello/eduardoksmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
