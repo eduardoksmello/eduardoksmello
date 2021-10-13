@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning all about **Machine Learning** techniques.
 
-:globe_with_meridians: Reach me: https://www.linkedin.com/in/eduardo-k-s-mello/
+:phone: Reach me: https://www.linkedin.com/in/eduardo-k-s-mello/
 
 :space_invader:	Pronouns: He/Him
 
