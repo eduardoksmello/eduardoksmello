@@ -3,7 +3,7 @@
 
 :monocle_face: I’m interested in **Data Science**.
 
-🌱 I’m currently learning all about **Machine Learning** techniques.
+🌱 I’m currently learning all about basic **Machine Learning** techniques.
 
 :phone: Reach me: https://www.linkedin.com/in/eduardo-k-s-mello/
 
