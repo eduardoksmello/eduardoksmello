@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My names is Eduardo.
-I'm a junior Data Scientist pashionated about statistical modelling, ML, and data visualization.
+I'm a Data Scientist pashionated about statistical modelling, ML, and data visualization.
 
 🌱 I’m currently learning SQL.
 
