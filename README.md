@@ -1,9 +1,8 @@
 ## Hi there 👋
 ### My names is Eduardo.
+I'm a junior Data Scientist pashionated about statistical modelling, ML, and data visualization.
 
-:monocle_face: I’m interested in **Data Science**.
-
-🌱 I’m currently learning all about basic **Machine Learning** techniques.
+🌱 I’m currently learning SQL.
 
 :phone: Reach me: https://www.linkedin.com/in/eduardo-k-s-mello/
 
