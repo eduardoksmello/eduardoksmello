@@ -9,11 +9,13 @@ I'm a Data Scientist pashionated about statistical modelling, ML, and data visua
 :space_invader:	Pronouns: He/Him
 
 :computer: Most familiar tools, languages and frameworks:
-- Python
+- Python, SQL
 - Pandas, Numpy, Scipy
 - Scikit-Learn, Statsmodels
+- BeautifulSoup
 - Matplotlib, Ploty, Seaborn
 - Power BI
+- SPSS, Excel, PowerPoint, Word
 
 <!--
 **eduardoksmello/eduardoksmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
