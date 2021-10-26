@@ -15,7 +15,7 @@ I'm a Data Scientist passionate about statistical modelling, ML, and data visual
 
 :phone: Reach me at https://www.linkedin.com/in/eduardo-k-s-mello/
 
-👨‍💼 Download my [curriculum vitae](https://www.dropbox.com/s/9hato8d51sevddx/EDUARDO%20MELLO%20-%20CIENTISTA%20DE%20DADOS%20-%20CV.pdf?dl=1).
+👨‍💼 Download my [curriculum vitae](https://www.dropbox.com/s/3ha133rkq0m1be4/EDUARDO%20MELLO%20-%20CIENTISTA%20DE%20DADOS%20-%20CV%20-%202021.pdf?dl=1).
 
 <!--
 **eduardoksmello/eduardoksmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
