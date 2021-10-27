@@ -13,7 +13,9 @@ I'm a Data Scientist passionate about statistical modelling, ML, and data visual
 - Power BI
 - SPSS, Excel, PowerPoint, Word
 
-:phone: Reach me at https://www.linkedin.com/in/eduardo-k-s-mello/
+📫 Find me at:\
+[LinkedIn](https://www.linkedin.com/in/eduardo-k-s-mello/)\
+[eduardoksmello@gmail.com](mailto:eduardoksmello@gmail.com)
 
 👨‍💼 Download my [curriculum vitae](https://www.dropbox.com/s/3ha133rkq0m1be4/EDUARDO%20MELLO%20-%20CIENTISTA%20DE%20DADOS%20-%20CV%20-%202021.pdf?dl=1).
 
