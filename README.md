@@ -5,7 +5,7 @@ I'm a Data Scientist/ Analyst passionate about statistical modelling, ML, and da
 🌱 I’m currently learning NLP.
 
 :computer: Most familiar tools, languages and frameworks:
-- Python (VSCode, Pycharm,Jupyter, Google Colab)
+- Python (VSCode, Pycharm, Jupyter, Google Colab, Terminal)
 - SQL (PosgreSQL)
 - Pandas, Numpy, Scipy
 - Scikit-Learn, Statsmodels
@@ -13,6 +13,7 @@ I'm a Data Scientist/ Analyst passionate about statistical modelling, ML, and da
 - Matplotlib, Ploty, Seaborn
 - Power BI
 - SPSS, Excel, PowerPoint, Word
+- Windows, Linux, Mac OS
 
 📫 Find me at:\
 [LinkedIn](https://www.linkedin.com/in/eduardo-k-s-mello/)\
