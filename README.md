@@ -2,10 +2,11 @@
 ### My names is Eduardo.
 I'm a Data Scientist/ Analyst passionate about statistical modelling, ML, and data visualization.
 
-🌱 I’m currently learning SQL.
+🌱 I’m currently learning NLP.
 
 :computer: Most familiar tools, languages and frameworks:
-- Python, SQL
+- Python (VSCode, Pycharm,Jupyter, Google Colab)
+- SQL (PosgreSQL)
 - Pandas, Numpy, Scipy
 - Scikit-Learn, Statsmodels
 - BeautifulSoup
