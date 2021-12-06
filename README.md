@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My names is Eduardo.
-I'm a Data Scientist passionate about statistical modelling, ML, and data visualization.
+Musician passionate about the study of how data impacts the context of music production. During graduate school, he developed skills related to collecting, cleaning, statistical processing and data visualization in order to debate and validate hypotheses about cognitive processes related to musical activity.
 
 🌱 I’m currently learning NLP.
 
