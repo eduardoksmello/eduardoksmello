@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My names is Eduardo.
-I'm a Data Scientist/ Analyst passionate about statistical modelling, ML, and data visualization.
+I'm a Data Scientist passionate about statistical modelling, ML, and data visualization.
 
 🌱 I’m currently learning NLP.
 
@@ -10,6 +10,7 @@ I'm a Data Scientist/ Analyst passionate about statistical modelling, ML, and da
 - Pandas, Numpy, Scipy
 - Scikit-Learn, Statsmodels
 - BeautifulSoup
+- NLTK
 - Matplotlib, Ploty, Seaborn
 - Power BI
 - SPSS, Excel, PowerPoint, Word
