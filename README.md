@@ -20,8 +20,6 @@ Musician passionate about the study of how data impacts the context of music pro
 [LinkedIn](https://www.linkedin.com/in/eduardo-k-s-mello/)\
 [eduardoksmello@gmail.com](mailto:eduardoksmello@gmail.com)
 
-👨‍💼 Download my [curriculum vitae](https://www.dropbox.com/s/3ha133rkq0m1be4/EDUARDO%20MELLO%20-%20CIENTISTA%20DE%20DADOS%20-%20CV%20-%202021.pdf?dl=1).
-
 <!--
 **eduardoksmello/eduardoksmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
