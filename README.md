@@ -1,19 +1,22 @@
 ## Hi there 👋
 ### My names is Eduardo.
-Musician passionate about the study of how data impacts the context of music production. During graduate school, he developed skills related to collecting, cleaning, statistical processing and data visualization in order to debate and validate hypotheses about cognitive processes related to musical activity.
+I'm a data analyst with skills relevant to collection, cleaning, statistical treatment, and data visualization. I'm fascinated by the entire data pipeline, from integration to visualization. Therefore, I study the processes pertinent to engineering, machine learning, and data analysis. 
+Currently, I work as a business intelligence analyst and am taking a bootcamp in data engineering (How Bootcamps).
 
-🌱 I’m currently learning NLP.
+Background: Doctorate in Music Cognition. 
+
+🌱 I’m currently learning continuous integration with Jenkins.
 
 :computer: Most familiar tools, languages and frameworks:
 - Python (VSCode, Pycharm, Jupyter, Google Colab, Terminal)
-- SQL (PosgreSQL)
+- SQL (PosgreSQL, BigQuery, DBeaver)
 - Pandas, Numpy, Scipy
 - Scikit-Learn, Statsmodels
 - BeautifulSoup
 - NLTK
 - Matplotlib, Ploty, Seaborn
-- Power BI
-- SPSS, Excel, PowerPoint, Word
+- Power BI, Data Studio, Metabase
+- SPSS, Excel, Google Sheets, PowerPoint, Word
 - Windows, Linux, Mac OS
 
 📫 Find me at:\
