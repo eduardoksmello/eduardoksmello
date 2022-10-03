@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My names is Eduardo.
-I'm a data analyst with skills relevant to collection, cleaning, statistical treatment, and data visualization. I'm fascinated by the entire data pipeline, from integration to visualization. Therefore, I study the processes pertinent to engineering, machine learning, and data analysis. 
+I'm a data analyst with skills relevant to collection, cleaning, statistical treatment, and data visualization. I'm fascinated by the entire data pipeline, from integration to visualization. Therefore, I am studying the processes pertinent to engineering, machine learning, and data analysis. 
 Currently, I work as a business intelligence analyst and am taking a bootcamp in data engineering (How Bootcamps).
 
 Background: Doctorate in Music Cognition. 
