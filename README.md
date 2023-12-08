@@ -1,11 +1,9 @@
 ## Hi there 👋
 ### My names is Eduardo.
 I'm a data analyst with skills relevant to collection, cleaning, statistical treatment, and data visualization. I'm fascinated by the entire data pipeline, from integration to visualization. Therefore, I am studying the processes pertinent to engineering, machine learning, and data analysis. 
-Currently, I work as a business intelligence analyst and am taking a bootcamp in data engineering (How Bootcamps).
+Currently, I am taking a MBA in Data Science and Analytics at University of São Paulo.
 
 Background: Doctorate in Music Cognition. 
-
-🌱 I’m currently learning continuous integration with Jenkins.
 
 :computer: Most familiar tools, languages and frameworks:
 - Python (VSCode, Pycharm, Jupyter, Google Colab, Terminal)
@@ -15,7 +13,7 @@ Background: Doctorate in Music Cognition.
 - BeautifulSoup
 - NLTK
 - Matplotlib, Ploty, Seaborn
-- Power BI, Data Studio, Metabase
+- Power BI, Looker Studio, Metabase
 - SPSS, Excel, Google Sheets, PowerPoint, Word
 - Windows, Linux, Mac OS
 
